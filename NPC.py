@@ -127,7 +127,7 @@ class domain_fronting(threading.Thread):
 
 def main():
     print(colors('\n'.join([
-        '[G1]Telkomsel Opok 2019',
+        '[G1]Telkomsel Opok 2020',
         '[G1]TELKOMNYET By NPC TUBE', '[CC]',
         '[R1]Jangan Lupa Subcribe Bos !! Gratiss', '[CC]',
         '[G1]Inject Berjalan Buka psiphonya bosku','[CC]'
